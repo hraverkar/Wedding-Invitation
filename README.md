@@ -2,7 +2,7 @@
 <p align="center"><a href="https://harshitasen.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://harshitasen.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: FEB 5, 2022 <br> <a href="https://harshitasen.netlify.app/">harshitasen.netlify.app</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://harshitasen.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/harshitasen/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/hraverkar/Wedding-Invitation)
 
 ## Wedding Invitation :ring:
 
@@ -51,14 +51,14 @@ const weddingVenue = new Location('Shanti Kunj, Haridwar');
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
+- *Replace the date in [script.js](https://github.com/hraverkar/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
 var countDownDate = new Date("Feb 5, 2022 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
+- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/hraverkar/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
 
 ```html
 <div class="music">
